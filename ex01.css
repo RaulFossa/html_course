@@ -1,0 +1,20 @@
+h1{
+
+    background-color: #B3B3B3;
+    text-align: center;
+}
+h2{
+    background-color: #9de1f6;
+}
+
+header{
+    text-align: center;
+}
+
+summary{
+    font-style: normal;
+}
+
+details{
+    font-style: italic;
+}
